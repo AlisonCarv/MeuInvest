@@ -12,7 +12,6 @@ class CDBStrategy extends EstrategiaInvestimento {
   }
 
   getDescricao() {
-    // CORREÇÃO: Formata o número para evitar problemas com ponto flutuante.
     const percentualFormatado = (this.percentualCDI * 100).toFixed(0);
     return `CDB ${percentualFormatado}% do CDI: Título privado com rendimento atrelado à taxa CDI.`;
   }
