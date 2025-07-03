@@ -1,3 +1,4 @@
+// Aluno: Álison Christian Rebouças Vidal de Carvalho - RA 2565765
 // src/services/TaxasService.js
 
 // Garante uma instância única para o serviço que fornece as taxas de mercado.

@@ -1,3 +1,4 @@
+// Aluno: Álison Christian Rebouças Vidal de Carvalho - RA 2565765
 // src/strategies/TesouroSelicStrategy.js
 
 const EstrategiaInvestimento = require('./EstrategiaInvestimento');

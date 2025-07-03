@@ -1,3 +1,4 @@
+// Aluno: Álison Christian Rebouças Vidal de Carvalho - RA 2565765
 // src/strategies/EstrategiaInvestimento.js
 
 // Define o contrato (interface) para todas as estratégias de investimento.
