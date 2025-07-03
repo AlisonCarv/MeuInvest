@@ -34,6 +34,7 @@ A arquitetura do sistema foi guiada por três características de qualidade prin
 
 O projeto foi organizado em módulos com responsabilidades bem definidas, visando alta coesão e baixo acoplamento.
 
+```
 /MeuInvest
 |-- src/
 | |-- services/
@@ -48,6 +49,7 @@ O projeto foi organizado em módulos com responsabilidades bem definidas, visand
 |-- index.js # Ponto de entrada da aplicação (Cliente).
 |-- package.json
 |-- README.md
+```
 
 ## 5. Como Executar o Projeto
 
